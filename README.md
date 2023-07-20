@@ -1,4 +1,4 @@
-#Mental Fitness Tracker
+MENTAL FITNESS TRACKER
 
 Description
 The Mental Fitness Tracker is an AI-powered project that aims to help individuals monitor and improve their mental well-being. 
