@@ -1,10 +1,11 @@
 MENTAL FITNESS TRACKER
 
-Description
+DESCRIPTION:
+
 The Mental Fitness Tracker is an AI-powered project that aims to help individuals monitor and improve their mental well-being. 
 The project leverages various machine learning regression models to predict and track mental fitness metrics based on user inputs.
 
-Features
+FEATURES:
 
 Regression Models: The project utilizes multiple regression models, including XGBoost Regressor, Linear Regression, 
                    RandomForest Regressor, Gradient Boosting Regressor, KNN Regressor, and Elastic Net Regressor, 
